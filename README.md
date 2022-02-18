@@ -1,5 +1,9 @@
 # MyQuizApp
-A Quiz App using Android 12
+
+* Developed a Quiz App application from Scratch using Kotlin.
+* It is a fun and learning application based on how well do you know the flags of the world
+* Quiz App contains a set of question and its answer and checks for the correctness of the answer given by the user.
+* Technology used: Kotlin and Android Studio
 
 ## Download APK From Here
 
